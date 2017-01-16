@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="640pt" height="640pt" viewBox="0 0 640 640" version="1.1">
+    <defs>
+        <style><![CDATA[
+            text {
+                fill: #ffffff;
+                font-family: "Helvetica Neue";
+            }
+            text.text-small {
+                font-size: 72px;
+                font-weight: 200;
+            }
+            text.text-large {
+                font-size: 108px;
+                font-weight: normal;
+            }
+        ]]></style>
+    </defs>
+
+    <rect x="0" y="0" width="640" height="640" style="fill:#12819E;" />
+    <text class="text-small" x="20" y="144">
+        PRESSING
+    </text>
+    <text class="text-small" x="20" y="206">
+        THE BUTTONS
+    </text>
+    <text class="text-large" x="20" y="294">
+        HARDER
+    </text>
+    <text class="text-small" x="20" y="390">
+        MAKES
+    </text>
+    <text class="text-small" x="20" y="452">
+        THE ATTACK
+    </text>
+    <text class="text-large" x="20" y="540">
+        STRONGER
+    </text>
+</svg>
